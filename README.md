@@ -11,6 +11,7 @@ Because remembering these can be very borning. And it is easy for me to feel fru
 Intrestingly, I learn a way from a Japanese series, which can help me remeber thing in a very effective way.
 The name of the way is "Memory Tree", in which you should organize the things you wanna keep in mind in a associate way. Like this.
 ![Alt example](/example.jpg "memory tree")
+
 These PDF use this way to organize the API. And I belive these document can help developer remeber API more effectively, which can greatly help to increase the developing speed.
 
 ## What should do next?
